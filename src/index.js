@@ -6,4 +6,4 @@ import "github-fork-ribbon-css/gh-fork-ribbon.css";
 
 ReactDOM.render(<App />, document.getElementById("root"));
 
-// lagay lang ng sampol comment
+lagay ng comment
